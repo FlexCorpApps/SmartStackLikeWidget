@@ -4,6 +4,9 @@
 
 <img width="336" height="705" alt="Bildschirmfoto 2025-09-05 um 19 47 17" src="https://github.com/user-attachments/assets/73b48b06-e12a-45e5-9539-58692b83602d" />
 
+<img width="336" height="705" alt="Bildschirmfoto 2025-09-05 um 19 49 12" src="https://github.com/user-attachments/assets/7279793f-bf3a-4304-b185-6ee2d62bde1d" />
+
+
 
 
 The package is inspired by the Apple Watch Smart Stack and remains open source!
